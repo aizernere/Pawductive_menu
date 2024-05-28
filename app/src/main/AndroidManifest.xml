@@ -34,6 +34,10 @@
             android:name=".Menu"
             android:exported="false">
         </activity>
+        <activity
+            android:name=".HomeRural"
+            android:exported="false">
+        </activity>
     </application>
 
 </manifest>
